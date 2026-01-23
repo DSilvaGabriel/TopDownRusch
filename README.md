@@ -1,0 +1,1 @@
+Jogo criado para fins acadêmicos, focado para o aprendizado de lógica de programação e estruturação de dados. O jogo consiste em mover-se e atirar em inimigos que aparecem aleatoriamente ao longo da gameplay que dura 5 minutos.
