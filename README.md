@@ -45,7 +45,4 @@ Este projeto é para fins acadêmicos, mas contribuições são bem-vindas:
 3. Faça commit das alterações (`git commit -m "Minha melhoria"`).  
 4. Abra um Pull Request.  
 
----
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
