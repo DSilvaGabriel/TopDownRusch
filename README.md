@@ -32,8 +32,8 @@ O jogador deve se movimentar e atirar em inimigos que aparecem aleatoriamente du
 ## Como Jogar
 1. Abra o projeto no **GameMaker Studio**.  
 2. Execute o jogo clicando em **Run** ou usando o atalho correspondente.  
-3. Use as teclas de movimento para controlar o personagem.  
-4. Atire nos inimigos para acumular pontos.  
+3. Use as teclas de movimento para controlar o personagem. (WASD)  
+4. Atire nos inimigos para acumular pontos.  (Espaço ou o botão esquerdo do Mouse)
 5. O jogo termina após 5 minutos e sua pontuação final será exibida.  
 
 ---
